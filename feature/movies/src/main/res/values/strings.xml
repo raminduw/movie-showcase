@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="movies_title">CineNote</string>
+    <string name="movies_subtitle">Discover. Save. Remember.</string>
+    <string name="movies_search_hint">Search all movies</string>
+    <string name="movies_category_popular">Popular</string>
+    <string name="movies_category_trending">Trending</string>
+    <string name="movies_category_top_rated">Top rated</string>
+    <string name="movies_category_now_playing">In cinemas</string>
+    <string name="movies_category_upcoming">Upcoming</string>
+    <string name="movies_added_to_favorites">"%1$s" added to favourites</string>
+    <string name="movies_removed_from_favorites">"%1$s" removed from favourites</string>
+    <string name="movies_empty_search_title">No matches</string>
+    <string name="movies_empty_search_message">Nothing on TMDB matches "%1$s". Try a different title.</string>
+    <string name="movies_empty_title">No movies here yet</string>
+    <string name="movies_empty_message">Pull a different category or try again later.</string>
+    <string name="movies_search_results">Results for "%1$s"</string>
+</resources>
