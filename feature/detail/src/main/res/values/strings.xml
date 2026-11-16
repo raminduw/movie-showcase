@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="detail_back">Back</string>
+    <string name="detail_add_favorite">Add to favourites</string>
+    <string name="detail_in_favorites">In favourites</string>
+    <string name="detail_trailer">Trailer</string>
+    <string name="detail_overview">Overview</string>
+    <string name="detail_cast">Cast</string>
+    <string name="detail_similar">You might also like</string>
+    <string name="detail_votes">%1$d votes</string>
+    <string name="detail_note_empty">Add a short summary or personal note. It\'s saved only on this device.</string>
+    <string name="detail_note_add">Add note</string>
+    <string name="detail_note_edit">Edit note</string>
+    <string name="detail_added_to_favorites">Added to favourites</string>
+    <string name="detail_removed_from_favorites">Removed from favourites (and its note)</string>
+    <string name="detail_no_overview">No overview available yet.</string>
+</resources>
