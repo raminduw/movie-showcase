@@ -1,0 +1,38 @@
+{
+  "id": 1022789,
+  "title": "Inside Out 2",
+  "tagline": "Make room for new emotions.",
+  "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition.",
+  "poster_path": "/poster1.jpg",
+  "backdrop_path": "/backdrop1.jpg",
+  "release_date": "2024-06-11",
+  "runtime": 97,
+  "vote_average": 7.6,
+  "vote_count": 4321,
+  "budget": 200000000,
+  "genres": [
+    { "id": 16, "name": "Animation" },
+    { "id": 10751, "name": "Family" }
+  ],
+  "credits": {
+    "cast": [
+      { "id": 1, "name": "Amy Poehler", "character": "Joy (voice)", "profile_path": "/amy.jpg", "order": 0 },
+      { "id": 2, "name": "Maya Hawke", "character": "Anxiety (voice)", "profile_path": null, "order": 1 }
+    ],
+    "crew": []
+  },
+  "videos": {
+    "results": [
+      { "key": "teaser1", "name": "Teaser", "site": "YouTube", "type": "Teaser", "official": true },
+      { "key": "trailer1", "name": "Official Trailer", "site": "YouTube", "type": "Trailer", "official": true }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      { "id": 150540, "title": "Inside Out", "poster_path": "/io.jpg", "release_date": "2015-06-09", "vote_average": 7.9, "vote_count": 22000 }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/backdrop1.jpg",
+      "genre_ids": [28, 12],
+      "id": 1022789,
+      "original_language": "en",
+      "original_title": "Inside Out 2",
+      "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition.",
+      "popularity": 4123.5,
+      "poster_path": "/poster1.jpg",
+      "release_date": "2024-06-11",
+      "title": "Inside Out 2",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 4321
+    },
+    {
+      "id": 42,
+      "title": "No Poster Movie",
+      "overview": "",
+      "poster_path": null,
+      "backdrop_path": null,
+      "release_date": "",
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 500,
+  "total_results": 10000
+}
