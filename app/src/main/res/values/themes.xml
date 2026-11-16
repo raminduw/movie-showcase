@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Compose draws everything; this theme only sets the window. -->
+    <style name="Theme.CineNote" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/cine_cream</item>
+    </style>
+
+    <!-- Splash: dark cinema background + animated film-frame/heart icon. -->
+    <style name="Theme.CineNote.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/cine_charcoal</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash_animated</item>
+        <item name="windowSplashScreenAnimationDuration">900</item>
+        <item name="postSplashScreenTheme">@style/Theme.CineNote</item>
+    </style>
+</resources>
